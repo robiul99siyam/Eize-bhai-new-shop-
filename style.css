@@ -1,0 +1,20 @@
+body {
+    font-family: "Sofia", sans-serif;
+}
+
+.buynow
+{
+    background-color: orangered;
+    border: none;
+}
+.buynow:hover{
+    border-bottom: 3px solid black;
+    background-color: white;
+    border-radius: 2px;
+}
+
+.card-end:hover
+{
+    box-shadow: var(--bs-box-shadow)!important;
+    transition: 2s;
+}
